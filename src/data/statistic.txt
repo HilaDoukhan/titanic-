@@ -1,0 +1,7 @@
+Total survived from embarked: S ---> 33.70%. C ---> 55.36%. Q ---> 38.96%. 
+Survived by age 0-10 ---> 59.38%. 11-20 ---> 38.26%. 21-30 ---> 36.68%. 31-40 ---> 45.10%. 41-50 ---> 39.29%. 51+ ---> 34.38%. 
+Total male survived NaN%, Total female survived 38.34%
+Total people without family who survived are 30.30%.
+Total family with family who survived are 50.56%.
+Total survived per price: 0-10 ---> 19.94%. 11-30 ---> 44.37%. 31+ ---> 58.22%. 
+Total survived per class: 1st ---> 62.96%. 2nd ---> 47.28%. 3rd ---> 24.24%. 
